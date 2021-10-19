@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/servicesstrategy/static/css/main.fbaf557e.chunk.css",
+    "main.js": "/servicesstrategy/static/js/main.6fe9e2c7.chunk.js",
+    "main.js.map": "/servicesstrategy/static/js/main.6fe9e2c7.chunk.js.map",
+    "runtime-main.js": "/servicesstrategy/static/js/runtime-main.6fd2262a.js",
+    "runtime-main.js.map": "/servicesstrategy/static/js/runtime-main.6fd2262a.js.map",
+    "static/js/2.08855a4f.chunk.js": "/servicesstrategy/static/js/2.08855a4f.chunk.js",
+    "static/js/2.08855a4f.chunk.js.map": "/servicesstrategy/static/js/2.08855a4f.chunk.js.map",
+    "index.html": "/servicesstrategy/index.html",
+    "static/css/main.fbaf557e.chunk.css.map": "/servicesstrategy/static/css/main.fbaf557e.chunk.css.map",
+    "static/js/2.08855a4f.chunk.js.LICENSE.txt": "/servicesstrategy/static/js/2.08855a4f.chunk.js.LICENSE.txt",
+    "static/media/header.css": "/servicesstrategy/static/media/header.605c1092.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fd2262a.js",
+    "static/js/2.08855a4f.chunk.js",
+    "static/css/main.fbaf557e.chunk.css",
+    "static/js/main.6fe9e2c7.chunk.js"
+  ]
+}
